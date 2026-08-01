@@ -1,4 +1,9 @@
 
+## Installation
+
+
+```bash
+  
 
 To Install sonarqube
 
@@ -18,3 +23,6 @@ To Install sonarqube
 
 ```
 
+
+```
+    
