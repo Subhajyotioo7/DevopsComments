@@ -5,7 +5,7 @@
 ```bash
   
 
-To Install sonarqube
+To Install boto3 , cliv2 
 
 
   475  pip install boto3
